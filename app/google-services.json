@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "319172666115",
+    "firebase_url": "https://ratemysinging-2df2d.firebaseio.com",
+    "project_id": "ratemysinging-2df2d",
+    "storage_bucket": "ratemysinging-2df2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319172666115:android:60a6324aabd8b80a",
+        "android_client_info": {
+          "package_name": "com.ashishcoder.ratemysinging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319172666115-otthakl45k7tr384u0blpjti21hb3l9c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCYUxEoZFz7U9G5I5z5YZ1snYSMtUISZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
